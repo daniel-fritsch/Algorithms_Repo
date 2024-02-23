@@ -6,3 +6,4 @@ This folder contains a useful collection of some python algorithms which can be 
 
 ### Sorting Algorithms
 - insertion sort
+- merge sort
