@@ -9,3 +9,4 @@ This is a collection of algorithms I found useful, fun, or interesting in Java. 
 #### Simple Sorting Algorithms
 * merge sort
 * bogo sort
+* heap sort
