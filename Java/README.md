@@ -6,6 +6,6 @@ This is a collection of algorithms I found useful, fun, or interesting in Java. 
 
 
 ### Repository Sections
-sorting
+#### Simple Sorting Algorithms
 * merge sort
 * bogo sort
