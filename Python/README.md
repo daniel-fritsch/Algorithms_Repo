@@ -12,3 +12,6 @@ This folder contains a useful collection of some python algorithms which can be 
 - quick sort
 - bogo sort
 - cocktail bubble sort
+
+#### Search Algorithms
+- binary search
