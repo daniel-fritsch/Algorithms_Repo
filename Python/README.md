@@ -15,3 +15,4 @@ This folder contains a useful collection of some python algorithms which can be 
 
 #### Search Algorithms
 - binary search
+- linear search
