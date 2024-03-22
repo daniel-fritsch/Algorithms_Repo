@@ -10,3 +10,4 @@ This is a collection of algorithms I found useful, fun, or interesting in Java. 
 * merge sort
 * bogo sort
 * heap sort
+* selection sort
