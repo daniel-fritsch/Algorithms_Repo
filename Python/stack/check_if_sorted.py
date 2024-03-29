@@ -4,7 +4,7 @@
 # A stack is considered sorted if it increases from bottom-most element to top-most element. 
 
 
-def is_sorted(stack):
+def check_if_sorted(stack):
     stg = []
   
     for i in range(len(stack)):
