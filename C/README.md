@@ -7,3 +7,4 @@ A collection of useful or interesting algorithms for a variety of purposes and a
 #### Sorting Algorithms
 - merge sort
 - bubble sort
+- heap sort
