@@ -12,4 +12,15 @@ This is intended to be a fluid repository with future additions
 
 ### Repository Sections
 
-Python
+- Data Structure
+  * java
+  * python
+- Python
+  * sorting
+  * search
+- Java
+  * sorting
+  * search
+- C
+  * sorting
+
